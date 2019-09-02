@@ -6,7 +6,7 @@ This package provides a Python implementation as well as an user-friendly API fo
 - It is built on a **new online group LASSO algorithm** proposed in the reference paper. 
 - It can be **applied to high dimensional time series** where the dimension is larger than the sample size.
 
-Further details and theory about the algorithm can be found here [[PDF](http://jding.org/jie-uploads/2018/11/slant.pdf)]
+Further details and theory about the algorithm can be found here [[PDF](https://arxiv.org/abs/1906.06615)]
 
 ## A Quick Setup Guide
 
